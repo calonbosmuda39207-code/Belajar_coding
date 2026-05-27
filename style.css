@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+body {
+  background: rgba(0,121,252,0.47);
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}
+
+ul {
+  background-color: rgba(245,255,24,0.76);
+  font-size: 20px;
+}
